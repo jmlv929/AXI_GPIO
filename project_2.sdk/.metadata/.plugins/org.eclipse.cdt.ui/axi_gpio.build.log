@@ -1,0 +1,6 @@
+11:13:10 **** Incremental Build of configuration Debug for project axi_gpio ****
+make all 
+make: Nothing to be done for 'all'.
+
+11:13:10 Build Finished (took 94ms)
+
